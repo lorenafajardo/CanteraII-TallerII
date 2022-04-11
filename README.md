@@ -1,0 +1,2 @@
+# CanteraII-TallerII
+Taller de diseño y programación: Abstracciones, interfaces y polimorfismo
